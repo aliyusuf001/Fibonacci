@@ -22,6 +22,7 @@ namespace Fibonacci
                 secondNumber = nestNumber;
             }
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
